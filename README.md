@@ -7,7 +7,10 @@ Clean the active sheet. Before making changes, ask me about cleaning decisions *
 ```
 <br>
 <br>
+
 # COPILOT - MICROSOFT POWERPOINT
+
+[Download FY26 Report.xlsx](https://github.com/mohammadelmedawar/AI/raw/main/FY26%20Report.xlsx)
 
 ```
 create-interactive-slide add a data dashboard with key insights from
