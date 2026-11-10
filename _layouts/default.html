@@ -6,15 +6,22 @@
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <style>
-    pre { position: relative; padding-right: 56px !important; cursor: pointer; }
+    pre {
+      position: relative; padding-right: 56px !important; cursor: pointer;
+      border-radius: 6px; transition: background-color .15s, box-shadow .15s;
+    }
     pre, pre code { white-space: pre-wrap !important; }
+    pre:hover {
+      background-color: #eaeef2 !important;
+      box-shadow: 0 0 0 1px #d1d9e0;
+    }
     .copy-btn {
       position: absolute; top: 8px; right: 8px; width: 32px; height: 32px;
       display: flex; align-items: center; justify-content: center;
       background: #f6f8fa; border: 1px solid #d1d9e0; border-radius: 6px;
       color: #59636e; cursor: pointer;
     }
-    .copy-btn:hover { background: #eef1f4; }
+    pre:hover .copy-btn { background: #ffffff; }
     .copy-btn.copied { color: #1a7f37; }
   </style>
 </head>
