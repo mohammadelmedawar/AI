@@ -51,3 +51,12 @@ Use create-interactive-slide to add a comparison. Create a clean comparison slid
 ```
 
 ---
+
+
+[Download Buyer_Personas.pptx](https://github.com/mohammadelmedawar/AI/raw/main/Buyer_Personas.pptx)
+
+```
+Use @create-interactive-slide to convert this slide into an interactive slide
+```
+
+---
