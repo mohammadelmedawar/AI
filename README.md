@@ -1,4 +1,4 @@
-#COPILOT - MICROSOFT EXCEL
+# COPILOT - MICROSOFT EXCEL
 
 [Download AI Clean Data.xlsx](https://github.com/mohammadelmedawar/AI/raw/main/AI%20Clean%20Data.xlsx)
 ```
@@ -6,7 +6,7 @@ Clean the active sheet. Before making changes, ask me about cleaning decisions *
 ```
 <br>
 <br>
-#COPILOT - MICROSOFT POWERPOINT
+# COPILOT - MICROSOFT POWERPOINT
 ```
 create-interactive-slide add a data dashboard with key insights from
 ```
