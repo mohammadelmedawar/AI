@@ -27,3 +27,11 @@
 ```
 @create-interactive-slide showing the anatomy of a mountain bike. Show a view of the elements that composed the bike assembled and expanded. Make sure elements are aligned in the assembled version. Clicking on each element of the bike will show details about that element
 ```
+
+---
+
+[Download Campaign Performance.pptx](https://github.com/mohammadelmedawar/AI/raw/main/Campaign Performance.pptx)
+
+```
+Use @create-interactive-slide to add a dashboard and add a full funnel analysis plus filters to explore the data
+```
