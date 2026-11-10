@@ -43,3 +43,11 @@ Use @create-interactive-slide to add a dashboard and add a full funnel analysis 
 ```
 Use @create-interactive-slide to add a timeline
 ```
+
+---
+
+```
+Use create-interactive-slide to add a comparison. Create a clean comparison slide for three OpenAI models: GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna. Show three selectable cards, each with a celestial icon. Compare them by ideal use case, reasoning capability, speed, and relative cost. Let users select each model to reveal a short description and one example scenario. Use a modern dark theme.
+```
+
+---
