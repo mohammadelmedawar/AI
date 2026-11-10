@@ -15,3 +15,9 @@
 ```
 @create-interactive-slide add a data dashboard with key insights from
 ```
+
+---
+
+```
+@create-interactive-slide Create an interactive slide with a vertical bar that can slide from side to side. Start with an empty room. Sliding the bar uncovers an image of the same room furnished. The original image is exactly the same space without furniture. Add 4 filters of different design styles so the user can uncover different styles. Add an auto-play option
+```
