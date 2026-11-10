@@ -6,18 +6,16 @@
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <style>
-    pre { position: relative; padding-right: 56px !important; }
+    pre { position: relative; padding-right: 56px !important; cursor: pointer; }
     pre, pre code { white-space: pre-wrap !important; }
     .copy-btn {
       position: absolute; top: 8px; right: 8px; width: 32px; height: 32px;
       display: flex; align-items: center; justify-content: center;
       background: #f6f8fa; border: 1px solid #d1d9e0; border-radius: 6px;
-      color: #59636e; cursor: pointer; opacity: 0; transition: opacity .15s;
+      color: #59636e; cursor: pointer;
     }
-    pre:hover .copy-btn, .copy-btn.copied { opacity: 1; }
     .copy-btn:hover { background: #eef1f4; }
     .copy-btn.copied { color: #1a7f37; }
-    @media (hover: none) { .copy-btn { opacity: 1; } }
   </style>
 </head>
 <body>
@@ -32,7 +30,8 @@
       btn.className = 'copy-btn';
       btn.title = 'Copy';
       btn.innerHTML = copyIcon;
-      btn.onclick = function () {
+      pre.onclick = function () {
+        if (window.getSelection().toString()) return;
         navigator.clipboard.writeText((pre.querySelector('code') || pre).innerText);
         btn.innerHTML = checkIcon;
         btn.classList.add('copied');
