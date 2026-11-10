@@ -35,3 +35,11 @@
 ```
 Use @create-interactive-slide to add a dashboard and add a full funnel analysis plus filters to explore the data
 ```
+
+---
+
+[Download Dunder_Mifflin_Timeline.pptx](https://github.com/mohammadelmedawar/AI/raw/main/Dunder_Mifflin_Timeline.pptx)
+
+```
+Use @create-interactive-slide to add a timeline
+```
