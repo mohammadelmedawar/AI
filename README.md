@@ -71,3 +71,10 @@ https://raw.githubusercontent.com/mohammadelmedawar/AI/refs/heads/main/Edit_Imag
 
 ---
 
+## PREPARE FOR QUESTIONS
+
+[Download AI Upskilling Program Proposal – NovaGulf Logistics.pptx](https://github.com/mohammadelmedawar/AI/raw/main/AI%20Upskilling%20Program%20Proposal%20%E2%80%93%20NovaGulf%20Logistics.pptx)
+
+```
+Use @prepare-for-questions to help me address weak points in my presentation and give me the top objections
+```
