@@ -60,3 +60,14 @@ Use @create-interactive-slide to convert this slide into an interactive slide
 ```
 
 ---
+
+## EDIT IMAGES WITH COPILOT
+
+[Download Edit_Images_With_Copilot.jpg](https://github.com/mohammadelmedawar/AI/raw/main/Edit_Images_With_Copilot.jpg)
+
+```
+https://raw.githubusercontent.com/mohammadelmedawar/AI/refs/heads/main/Edit_Images_With_Copilot.jpg
+```
+
+---
+
